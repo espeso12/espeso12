@@ -2,8 +2,6 @@
 
 Soy estudiante de desarrollo de software!
 
-- 🌱 Ahora mismo estoy aprendiendo desarrollo en iOS.
-
 
 <!--
 **espeso12/espeso12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
